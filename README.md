@@ -1,2 +1,3 @@
 # file-convert
-Python program to change and reorganize files
+
+python program to change and rearrange file contents
