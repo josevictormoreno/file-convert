@@ -1,3 +1,3 @@
-# file-convert
+# File Convert
 
-python program to change and rearrange file contents
+## Python program to change and rearrange file contents
